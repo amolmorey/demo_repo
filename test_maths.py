@@ -8,3 +8,5 @@ def test_square():
 def test_cube():
     x = 4
     assert cal.cube(x) == 64
+
+

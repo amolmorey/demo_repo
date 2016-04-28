@@ -11,3 +11,6 @@ def prime(x):
 		if x%i == 0:
 			return false
 	return true
+
+def add(a,b):
+	return a+b
